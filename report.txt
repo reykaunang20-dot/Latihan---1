@@ -1,0 +1,35 @@
+---LAPORAN FILE SISTEM---
+=========================
+
+Jumlah File di Setiap Folder : 
+5
+
+Ukuran Total Direktori (dalam KB) : 
+24K	archives
+24K	documents
+4.0K	images
+24K	log
+4.0K	organize_file.sh
+4.0K	report.sh
+4.0K	report.txt
+4.0K	search.sh
+
+Daftar 3 File/Folder Pertama : 
+total 32K
+drwxrwxr-x 2 reykhann reykhann 4.0K Nov 11 17:04 archives
+drwxrwxr-x 2 reykhann reykhann 4.0K Nov 11 17:04 documents
+
+Jumlah Total Baris Semua File Documents : 
+5
+
+Jumlah Baris Teks Semua File Images : 
+
+Jumlah Baris Teks Semua File Archives : 
+27
+
+Jumlah Baris Teks Semua File Logs : 
+5
+
+Laporan dibuat Pada : Tue Nov 11 05:23:29 PM UTC 2025
+
+---Laporan Selesai dibuat!---
